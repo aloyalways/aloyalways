@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 # 💫About Me :
-👋 Hello, my name is Aloysius Samuel
-📱 I am a Mobile Application Developer
-🥷🏽 Developed many applications from scratch
-🔥 Love challenges & helping people 
-🧑🏽‍💻 Currently loves working on Flutter & Dart
-❤️ Tech Enthusiast 
-😄 Pronouns: He/His
-👯 Open to work part time on any Flutter application
-💬 Ask me anything on Flutter & Dart
+- 👋 Hello, my name is Aloysius Samuel
+- 📱 I am a Mobile Application Developer
+- 🥷🏽 Developed many applications from scratch
+- 🔥 Love challenges & helping people 
+- 🧑🏽‍💻 Currently loves working on Flutter & Dart
+- ❤️ Tech Enthusiast 
+- 😄 Pronouns: He/His
+- 👯 Open to work part time on any Flutter application
+- 💬 Ask me anything on Flutter & Dart
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aloy_always) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aloysius-samuel-6346321a4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aloyalways) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12804400) 
